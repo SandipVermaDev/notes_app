@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "609433526170",
+    "project_id": "learnfirebase-b85fd",
+    "storage_bucket": "learnfirebase-b85fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609433526170:android:fa14d310a91a8547f4a423",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqgqnSXcMClK7kArl7RrvPro_KnJW0F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609433526170:android:7577c5ab46e3f59ff4a423",
+        "android_client_info": {
+          "package_name": "com.sandip.learnfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqgqnSXcMClK7kArl7RrvPro_KnJW0F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
